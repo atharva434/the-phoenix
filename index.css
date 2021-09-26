@@ -1,0 +1,122 @@
+body{
+  background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--DZN2ehRq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/15f3a5991be2/Image%25202019-09-20%2520at%252010.43.29%2520AM.png);
+  background-attachment: scroll;
+}
+.glowd{
+
+  background-image: url(https://www.xmple.com/wallpaper/green-hexagon-black-glow-gradient-1920x1080-c4-000000-64db5e-00aa00-000000-l2-10-124-a-45-f-6.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.glow {
+    margin: 0;
+    padding: 0;
+    
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  
+  
+  
+        text-shadow: 
+        0 0 7px #fff,
+        0 0 8px #fff,
+        0 0 13px #0fa,
+        0 0 20px #0fa;
+    }
+  /**********************************/
+  /* navbar*/
+
+
+
+/**********************************/
+/* coding */
+.coding{
+  padding: 0;
+  margin: 0;
+  border-top: 2px solid  rgb(11, 241, 23);
+  border-bottom: 2px solid  rgb(11, 241, 23);
+    width: 100%;
+    height:600px;
+    /* background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--DZN2ehRq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/15f3a5991be2/Image%25202019-09-20%2520at%252010.43.29%2520AM.png);
+    background-attachment: scroll; */
+}
+#canv {
+    margin: 0;
+    height:600px;
+    width: 100%;
+  }
+.h12{
+    position: relative;
+    bottom:77%;
+    left: 6px;
+    color: rgb(78, 214, 101);
+}
+.hcr{
+  color:#1a1aff;
+}
+.hcp{
+  font-size: x-large;
+  color: rgb(92, 238, 116);
+}
+/**********************************/
+/* cars */
+  .cars{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1016709226/thumb/1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color:black ;
+    height:750px;
+    background-attachment: scroll;
+}
+.fcar{
+  height:250px;
+  width: 280px;
+    margin-top: 10px;
+    position: relative;
+    width:fit-content;
+    
+  }
+.igc{
+  margin: 10px;
+}
+ .vedio{
+float: right;
+} 
+/**********************************/
+/* civilization */
+#civilz{
+  height: 700px;
+  background-image: url(https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/d285af99-6e32-4ea1-8165-6433834af3b9_scaled.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+}
+/**********************************/
+#aliens{
+  height: 700px;
+  background-image: url(https://media.istockphoto.com/photos/futuristic-scifi-battle-ships-hover-over-an-alien-planet-picture-id1277822133?b=1&k=20&m=1277822133&s=170667a&w=0&h=5okb9svBgqXggRpCUlMO0ykN1jz8G5l6u5BUJPv6nlo=);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
+}
+.aln{
+  height: 250px;
+  width: fit-content; 
+  margin:5px auto 5px auto ;
+  border-radius: 3px;
+  
+}
+.ha{
+  color: #F0E5CF;
+  margin:5px auto 5px auto ;
+  text-align: center;
+  
+  
+}
+.al{
+  text-align: center;
+  margin: 0 auto 0 auto ;
+}
+/**********************************/
